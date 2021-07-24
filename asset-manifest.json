@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Go_fund_me_clone/static/css/main.1c241bf2.chunk.css",
+    "main.js": "/Go_fund_me_clone/static/js/main.24401be9.chunk.js",
+    "main.js.map": "/Go_fund_me_clone/static/js/main.24401be9.chunk.js.map",
+    "runtime-main.js": "/Go_fund_me_clone/static/js/runtime-main.73711828.js",
+    "runtime-main.js.map": "/Go_fund_me_clone/static/js/runtime-main.73711828.js.map",
+    "static/css/2.dab86632.chunk.css": "/Go_fund_me_clone/static/css/2.dab86632.chunk.css",
+    "static/js/2.07535fc9.chunk.js": "/Go_fund_me_clone/static/js/2.07535fc9.chunk.js",
+    "static/js/2.07535fc9.chunk.js.map": "/Go_fund_me_clone/static/js/2.07535fc9.chunk.js.map",
+    "index.html": "/Go_fund_me_clone/index.html",
+    "static/css/2.dab86632.chunk.css.map": "/Go_fund_me_clone/static/css/2.dab86632.chunk.css.map",
+    "static/css/main.1c241bf2.chunk.css.map": "/Go_fund_me_clone/static/css/main.1c241bf2.chunk.css.map",
+    "static/js/2.07535fc9.chunk.js.LICENSE.txt": "/Go_fund_me_clone/static/js/2.07535fc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73711828.js",
+    "static/css/2.dab86632.chunk.css",
+    "static/js/2.07535fc9.chunk.js",
+    "static/css/main.1c241bf2.chunk.css",
+    "static/js/main.24401be9.chunk.js"
+  ]
+}
